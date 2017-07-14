@@ -1,5 +1,6 @@
 module.exports = {
   router: {
+    base: '/AskYBS/',
     linkActiveClass: 'is-active'
   },
   /*
